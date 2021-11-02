@@ -14,11 +14,11 @@
     + Git
 # Summary
    - Only 1 year experience in Front-End development.
-   - Technical Skills
+   - Technical Skills</br>
     + Expertise in React, Redux. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory.</br>
     + Skilled in ES6.</br>
     + Skilled in  Web services, Validation Rules, Work Flows, Dashboards, Reports development and Testing.</br>
-   - Soft Skills
+   - Soft Skills</br>
     + Skilled in communication, presentation, active listening and constructive feedback.</br>
     + Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.</br>
  # Experience
