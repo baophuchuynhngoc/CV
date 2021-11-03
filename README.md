@@ -1,5 +1,5 @@
 # Huynh Ngoc Bao Phuc
-  - Junior front-end developer at Metta Depth LLC </br>
+  - Front-end developer at Metta Depth LLC </br>
   - Working experience in Vietnam.</br>
   - Email: baophuchuynhngoc@gmail.com</br>
   - Phone: +84888822021</br>
