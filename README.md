@@ -28,4 +28,11 @@
  # Education
     # Hue University of Sciences, Vietnam (2017 - 2021)
       - Bachelor of Software Engineering
+ # Projects
+    - Maxxing: https://maxxing.espm-group.com/ (WordPress)
+    - Shotyz: https://shotyz.io  (WordPress)
+    - Arche Agglo: In Progress
+    - Visio Forest: https://visioforest.fr/ (ElectronJS)
+    - BeCard : https://play.google.com/store/apps/details?id=espm.becard&hl=en&gl=US (React Native)
+ 
     
