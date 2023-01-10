@@ -7,16 +7,17 @@
 # Expertise</br>
 
   - # Front-End</br>
-    + JavaScript, ES6, HTML5, CSS3</br>
-    + React.js, Redux</br>
-    + Bootstrap, SASS, LESS, Responsive</br>
+    + JavaScript, JQuery, ES6, HTML5, CSS3</br>
+    + React.js, Redux, React Native</br>
+    + Bootstrap, SASS, LESS, Responsive, CSS, SCSS, Tailwind</br>
     
   - # Dev</br>
     + Design Tools</br>
-    + UI Testing</br>
+    + UI,UX Testing</br>
     + Git</br>
+    + Jira, Excel, Word</br>
 # Summary</br>
-   - 1 year experience in Front-End development.</br>
+   - 3 year experience in Front-End development.</br>
    - Technical Skills</br>
     + Expertise in React, Redux. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory.</br>
     + Skilled in ES6.</br>
@@ -26,7 +27,7 @@
     + Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.</br>
  # Experience
  
-   # Front-End Developer | DeveloperSix LLC, (April 2021 - PRESENT)</br>
+   # Front-End Developer | DeveloperSix LLC, (April 2019 - PRESENT)</br>
       - Resolved website performance issues</br>
       - Builded websites using Wordpress CMS, Next.js</br>
       
@@ -44,4 +45,7 @@
     - Shotyz: https://shotyz.io (WordPress)</br>
     - VVN: https://votrevoyagedenoces.fr/ (WordPress)</br>
     - MettaDepth: https://mettadepth.com/ (Next Js)</br>
+    - Brocker Block: In Progress (NextJs + RevealJs)</br>
+    - GreenWeb: https://green-web.fr/ (WordPress)</br>
+    - TWV: https://twvgroup.com/ (WordPress)</br>
     
