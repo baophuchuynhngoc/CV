@@ -10,6 +10,7 @@
     + JavaScript, JQuery, ES6, HTML5, CSS3</br>
     + React.js, Redux, React Native</br>
     + Bootstrap, SASS, LESS, Responsive, CSS, SCSS, Tailwind</br>
+    + Saleforces</br>
     
   - # Dev</br>
     + Design Tools</br>
@@ -22,12 +23,13 @@
     + Expertise in React, Redux. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory.</br>
     + Skilled in ES6.</br>
     + Skilled in  Web services, Validation Rules, Work Flows, Dashboards, Reports development and Testing.</br>
+    + Skilled in Saleforces
    - Soft Skills</br>
     + Skilled in communication, presentation, active listening and constructive feedback.</br>
     + Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.</br>
  # Experience
  
-   # Front-End Developer | DeveloperSix LLC, (April 2019 - PRESENT)</br>
+   # Front-End Developer | DeveloperSix LLC, (April 2020 - PRESENT)</br>
       - Resolved website performance issues</br>
       - Builded websites using Wordpress CMS, Next.js</br>
       
