@@ -20,10 +20,14 @@
 # Summary</br>
    - 3 year experience in Front-End development.</br>
    - Technical Skills</br>
+    + Understanding of UX/UI (user experience/user interface) design</br>
+    + Experience with design software (e.g., Photoshop)</br>
+    + Experience with web wireframing solutions (e.g., Figma, MockFlow, Balsamiq, Mockplus)</br>
     + Expertise in React, Redux. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory.</br>
     + Skilled in ES6.</br>
     + Skilled in  Web services, Validation Rules, Work Flows, Dashboards, Reports development and Testing.</br>
-    + Skilled in Saleforces
+    + Nice to have Salesforce experience.</br>
+    + Good visual design sense
    - Soft Skills</br>
     + Skilled in communication, presentation, active listening and constructive feedback.</br>
     + Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.</br>
