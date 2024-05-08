@@ -51,7 +51,8 @@
     - Shotyz: https://shotyz.io (WordPress)</br>
     - VVN: https://votrevoyagedenoces.fr/ (WordPress)</br>
     - MettaDepth: https://mettadepth.com/ (Next Js)</br>
-    - Brocker Block: In Progress (NextJs + RevealJs)</br>
+    - Metta Shipping: https://mettashipping.com (NextJs + Strapi)</br>
+    - Contour Lashes & Brows: https://www.contourlashes.com (NextJs + Strapi)</br>
     - GreenWeb: https://green-web.fr/ (WordPress)</br>
     - TWV: https://twvgroup.com/ (WordPress)</br>
     
